@@ -49,16 +49,16 @@ sponge.
 ---companies
 title: Trusted By
 list:
-  - name: Company 1
+  - name: Geeksy Company
     icon:
       src: /icons/logo-1.svg
-  - name: Company 2
+  - name: Paycoo 2
+    icon:
+      src: /icons/logo-2.svg
+  - name: iedubio 3
     icon:
       src: /icons/logo-3.svg
-  - name: Company 3
-    icon:
-      src: /icons/logo-3.svg
-  - name: Company 4
+  - name: Enactus E-JUST 4
     icon:
       src: /icons/logo-4.svg
 ---
