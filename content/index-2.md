@@ -15,20 +15,17 @@ images:
     alt: my photo
 ---
 
-# <Typewriter>Carl Hanson</Typewriter>
+# <Typewriter>Ahmed Abdelhady</Typewriter>
 
-# *Web Developer* <span>&</span> *Growth Consultant*
+# *Software Developer* <span>&</span> *Business Analyst*
 
-Sometimes five Imprimaturs are seen together dialogue-wise in the
-piazza of one title-page, complimenting and ducking each to other with
-their shaven reverences, whether the author, who stands by in
-perplexity at the foot of his epistle.
+Experienced undergraduate developer with a proven track record of delivering value to stakeholders. Skilled in building, securing, and optimizing modern software projects and environments for startup and late-stage companies.
 
 ```js {2-4} showLineNumbers
 const services = [
-  'UI/UX Design'
-  'Web Development'
-  'Mobile App Development'
+  'Software Development'
+  'Data Analyst'
+  'Business Analyst'
 ]
 if (have_a_project) navigate('/contact')
 ```
@@ -36,13 +33,13 @@ if (have_a_project) navigate('/contact')
 
 
 ---achievements
-- number: 6+
+- number: 5+
   text: Years of experience
 - number: 70+
   text: Projects Completed
-- number: 12
-  text: OpenSource Libraries
-- number: 50+
+- number: 22
+  text: OpenSource Projects
+- number: 32+
   text: Clients World Wide
 ---
 
