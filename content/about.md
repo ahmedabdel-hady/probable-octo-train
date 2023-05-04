@@ -129,13 +129,10 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
-    date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
+  - name: Egypt Japan University Of Science and Technology
+    description: BAs (Information system and International Business )
+    date: 2021-2025
+  - name: Ismailia STEM High School
+    description: High School Diploma (STEM Education)
+    date: 2018-2021
 ---
