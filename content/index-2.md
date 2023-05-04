@@ -69,5 +69,5 @@ list:
       src: /icons/logo-3.svg
   - name: Enactus E-JUST 4
     icon:
-      src: /icons/logo-4.svg
+      src: /icons/logo-4.png
 ---
